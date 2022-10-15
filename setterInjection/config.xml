@@ -23,8 +23,7 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 		<value> 22344 </value>
 	</property>
 	
-	
-	<property name = "studentName"> 
+		<property name = "studentName"> 
 		<value>Durgesh tiwari</value>
 	</property>
 	
@@ -40,10 +39,5 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 	<property name="studentAddress" value="jammu" /> 
 
 </bean>
-
-
-
-
-
 
 </beans>
